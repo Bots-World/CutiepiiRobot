@@ -1,6 +1,6 @@
 {
-      "name": "Cutiepii Robot",
-      "description": "Cutiepii is An Anime themed advance Telegram group management bot.",
+      "name": "CheemsRobot",
+      "description": " Advance Telegram group management bot.",
       "logo": "",
       "keywords": [
          "telegram",
@@ -9,7 +9,7 @@
          "manager",
          "Cutiepii"
       ],   
-   "repository": "https://github.com/Rajkumar-27/CutiepiiRobot",
+   "repository": "https://github.com/Bots-World/CutiepiiRobot",
    "addons": [
       {
          "options": {
