@@ -1,23 +1,23 @@
 {
-      "name": "Cutiepii Robot",
-      "description": "Cutiepii is An Anime themed advance Telegram group management bot.",
-      "logo": "",
-      "keywords": [
-         "telegram",
-         "anime",
-         "group",
-         "manager",
-         "Cutiepii"
-      ],   
-   "repository": "https://github.com/Rajkumar-27/CutiepiiRobot",
-   "addons": [
-      {
-         "options": {
-            "version": "12"
-         },
-         "plan": "heroku-postgresql"
-      }
-   ],
+    "name": "CheemsRobot",
+    "description": "Telegram group management bot.",
+    "keywords": [
+       "telegram",
+       "anime",
+       "group",
+       "manager",
+       "Cheems"
+    ],   
+ "repository": "https://github.com/Bots-World/CheemsRobot",
+ "addons": [
+    {
+       "options": {
+          "version": "12"
+       },
+       "plan": "heroku-postgresql"
+    }
+ ]
+}
    "env": {
       "TOKEN": {
          "description": "Your bot token. Get one from @BotFather duh",
