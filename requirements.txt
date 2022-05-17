@@ -11,7 +11,7 @@ pillow==9.1.0
 pretty-errors==1.2.25
 psutil==5.9.0
 pynewtonmath==1.0.1
-python-telegram-bot==20.0a0
+python-telegram-bot==13.11
 regex==2022.3.2
 requests==2.26.0
 spamwatch==0.3.0
